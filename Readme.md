@@ -4,6 +4,10 @@ author : alohaxuuuu
 
 blog : http://alohaxuuuu.fun/
 
+## V2 New Feature
+
+You can upload multiple images at the same time
+
 ## introduce
 
 This is a simple project from local img to http img.
@@ -62,7 +66,7 @@ If you need to upload to the server to run, be aware that Windows and Linux writ
 
 # 图床
 
-
+v2 新功能：可以同时上传多张图片
 
 这是一个使用express框架写的一个小型图床，由于不想使用网上的图床，因为都是需要钱或者只有免费保存几天，所以想自己写一个图床用于http化图片。
 
