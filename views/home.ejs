@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+	<h2>This is a PictureBed Papg</h2>
+	<div>
+		<% for(var i=0;i<url.length;i++){ %>
+				<div class="cover-wp">
+					<div><%=url[i]%></div>
+					<img src="<%=url[i]%>">
+				</div>
+		<% } %>
+	</div>
+	<a href="http://localhost:3000/user">返回</a>
+</body>
+<style>
+	img {
+		width: 40%;
+		height: 40%;
+	}
+</style>
+
+</html>
