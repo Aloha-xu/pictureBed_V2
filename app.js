@@ -1,3 +1,4 @@
+// -----------------V2-------------------------
 const express = require('express')
 const app = express()
 const multer = require('multer')
@@ -19,7 +20,6 @@ app.use(bodyParser.urlencoded({
   extended: false
 }))
 
-// app.use(bodyParser.json())
 const mysql = require('mysql')
 
 app.get('/', (req, res) => {
