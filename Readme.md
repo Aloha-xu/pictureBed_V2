@@ -1,4 +1,4 @@
-# PictureBed
+# PictureBed  V2
 
 author : alohaxuuuu  
 
